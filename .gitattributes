@@ -5,7 +5,7 @@
 *.html diff=html
 *.md diff=markdown
 *.php diff=php
-../public/*.js linguist-detectable=false
+public/*.js linguist-vendored
 
    
 
